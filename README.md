@@ -1,8 +1,5 @@
-# shopee_test
+# Lazada_Automate_test
 This repository is used for Interview in Software Quality Assuarance Role at H LAB using Cypress
-
-### Noted
-This test and code is still not complete, I push this repo to confirm the process. So please still don't assume that I'm already completed the test. Thank you.
 
 ## Usage
 1. Clone this repository with `git clone https://github.com/PT900/shopee_test.git`
